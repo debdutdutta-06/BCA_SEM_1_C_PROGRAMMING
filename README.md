@@ -40,6 +40,18 @@ Takes marks in PCM (Physics, Chemistry, Maths) as input for a science student an
 ### triangle.c
 Takes the three sides of a triangle as input and tells whether the triangle is scalene or not (also identifies equilateral/isosceles).
 
+### triangle_type.c
+Program to input three sides of a triangle and check whether it is Equilateral, Isosceles, or Scalene, using if-else if ladder.
+
+### check_digit.c
+Program to input a single character and check whether it is a digit or not, using if-else.
+
+### cost_discount.c
+Program to input the cost and quantity of a product, calculate the total amount, and apply a 20% discount if the amount exceeds 500 (otherwise 10%), using if-else.
+
+### leap_year.c
+Program to input a year and check whether it is a leap year or not, using if-else if ladder.
+
 ## How to run
 
 Compile and run using GCC:
