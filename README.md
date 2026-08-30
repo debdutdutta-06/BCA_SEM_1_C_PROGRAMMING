@@ -52,6 +52,12 @@ Program to input the cost and quantity of a product, calculate the total amount,
 ### leap_year.c
 Program to input a year and check whether it is a leap year or not, using if-else if ladder.
 
+### circle_operations.c
+Program to input the radius of a circle and let the user choose an operation (diameter, area, or perimeter) using switch-case, then print the result accordingly.
+
+### salary_bonus.c
+Program to input salary and years of experience, and calculate bonus using if-else: 50% of salary if experience exceeds 10 years, 40% if between 5-10 years, and 30% if less than 5 years.
+
 ## How to run
 
 Compile and run using GCC:
