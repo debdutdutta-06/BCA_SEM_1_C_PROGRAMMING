@@ -58,6 +58,15 @@ Program to input the radius of a circle and let the user choose an operation (di
 ### salary_bonus.c
 Program to input salary and years of experience, and calculate bonus using if-else: 50% of salary if experience exceeds 10 years, 40% if between 5-10 years, and 30% if less than 5 years.
 
+### factorial.c
+Program to input a number and calculate its factorial using a for loop, then print the result.
+
+### count_even.c
+Program to input 10 numbers from the user and count how many of them are even values.
+
+### print_factors.c
+Program to input a number and print all its factors by checking divisibility from 1 to that number.
+
 ## How to run
 
 Compile and run using GCC:
